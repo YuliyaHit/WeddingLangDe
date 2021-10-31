@@ -191,7 +191,7 @@ h4 {
 	margin-bottom: 50px;
 	transition: 1s;
 }
-
+input, button { -webkit-appearance: none;}
 .foto3 {
 	width: 55%;
 	object-fit: contain;
